@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionKeeper", "VersionKeeper\VersionKeeper.csproj", "{3B575E72-603F-4889-BFD6-4DE5973B7D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionKeeper.Test", "VersionKeeper.Test\VersionKeeper.Test.csproj", "{4BC810E4-27D8-467A-BCEF-654C6875AFDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionKeeper.WPF", "VersionKeeper.WPF\VersionKeeper.WPF.csproj", "{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.Helpers", "WPF.Helpers\WPF.Helpers.csproj", "{4D62843C-E745-4957-BCDB-36A339F9123C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Debug|x64.ActiveCfg = Debug|x64
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Debug|x64.Build.0 = Debug|x64
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B575E72-603F-4889-BFD6-4DE5973B7D73}.Release|x64.Build.0 = Release|Any CPU
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Debug|x64.ActiveCfg = Debug|x64
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Debug|x64.Build.0 = Debug|x64
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Release|x64.ActiveCfg = Release|Any CPU
+		{4BC810E4-27D8-467A-BCEF-654C6875AFDC}.Release|x64.Build.0 = Release|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Debug|x64.Build.0 = Debug|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Release|x64.ActiveCfg = Release|Any CPU
+		{63EAAA45-FD1B-4EC6-AC07-4EF0913EC272}.Release|x64.Build.0 = Release|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Debug|x64.Build.0 = Debug|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Release|x64.ActiveCfg = Release|Any CPU
+		{4D62843C-E745-4957-BCDB-36A339F9123C}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C330E63-CC57-44C7-95F6-3B66D5408F2B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jsmunroe.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VersionKeeper\\VersionKeeper.csproj
+		SccProjectName1 = VersionKeeper
+		SccLocalPath1 = VersionKeeper
+		SccProjectUniqueName2 = VersionKeeper.Test\\VersionKeeper.Test.csproj
+		SccProjectName2 = VersionKeeper.Test
+		SccLocalPath2 = VersionKeeper.Test
+		SccProjectUniqueName3 = VersionKeeper.WPF\\VersionKeeper.WPF.csproj
+		SccProjectName3 = VersionKeeper.WPF
+		SccLocalPath3 = VersionKeeper.WPF
+		SccProjectUniqueName4 = WPF.Helpers\\WPF.Helpers.csproj
+		SccProjectName4 = WPF.Helpers
+		SccLocalPath4 = WPF.Helpers
+	EndGlobalSection
+EndGlobal
